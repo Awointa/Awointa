@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awointa
-- 👀 I’m interested in front end development and the blockchain
+- 👀 web-dev all day 
 - 🌱 I’m currently learning the blockchain and strenghtening my front-end skills
 - 💞️ I’m looking to collaborate on web 3 technonologies
 - 📫 How to reach me ... akosawointa@gmail.com
