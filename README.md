@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Awointa
-- 👀 web-dev all day 
-- 🌱 I’m currently strenghtening my front-end skills
-- 💞️ I’m looking to collaborate on web developmet projects 
+- 👀 Front-end dev 
+- 🌱 aspiring fullstack dev  
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
