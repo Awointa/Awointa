@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awointa
-- 👀 Front-end and smart contract developer 
+- 👀  Front-end and smart contract developer 
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
