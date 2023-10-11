@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Awointa
-- 👀 Front-end dev 
-- 🌱 aspiring fullstack dev  
+- 👀 Front-end and smart contract developer 
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
