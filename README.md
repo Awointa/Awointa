@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Awointa
-- 👀  Front-end and smart contract developer 
+- 👀
+- React and golang enthusiast
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
