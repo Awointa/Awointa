@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awointa
 - 👀
-- React and golang enthusiast
+- javsscript, React developer
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
