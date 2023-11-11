@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awointa
 - 👀
-- javsscript, React developer
+- javascript, React developer
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
