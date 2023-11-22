@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awointa
 - 👀
-- I'm vast in Javascript, React.js, Next.js and learning golang 
+- I'm vast in Javascript, React.js, Next.js and learning Go
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
