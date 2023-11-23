@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awointa
 - 👀
-- I'm vast in Javascript, React.js, Next.js and learning Go
+  my present stack consist of Javascript, React.js, Next.js and learning Go
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
