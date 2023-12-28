@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awointa
 - 👀
-  my present stack consist of Javascript, React.js, Next.js and learning Node.js
+  my present stack consist of Javascript, React.js, Next.js and learning Node.js, typescript, solidity
 - 📫 How to reach me ... akosawointa@gmail.com
 
 <!---
