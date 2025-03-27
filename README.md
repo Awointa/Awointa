@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my name is Awointa, I am proficient with javascript and typescript however I craft websites with react, I get  curious at times so I learnt a little bit of  express<br><br>currently I am learning cairo to build on my ideas block by block.
+Hey my name is Awointa, I am proficient with javascript and typescript however I craft websites with react.js, I get  curious at times so I learnt a little bit of  express<br><br>currently I am learning cairo to build on my ideas block by block.
 
 
 ## 🌐 Socials:
