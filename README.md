@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my name is Awointa, I am proficient with javascript and typescript however I craft websites with react.js, I get  curious at times so I learnt a little bit of  express<br><br>currently I am learning cairo to build on my ideas block by block.
+My name is Awointa. I am a developer proficient in JavaScript and TypeScript, specializing in building web applications with React.js. My curiosity has also led me to explore backend development with Express.js. Currently, I am expanding my skillset by learning Cairo to develop and implement new ideas block by block.
 
 
 ## 🌐 Socials:
