@@ -1,6 +1,6 @@
-I  write React, Cairo and Rust,
+I  write React/nextjs, Cairo and Rust,
 
--react for front end<br>
+-react/nextjs for front end<br>
 -cairo and rust for smart contracts<br>  
 Big on open source<br>
 Honoured to work in this industry. 
