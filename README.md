@@ -1,4 +1,4 @@
-I  write React/nextjs, Cairo and Rust,
+I  am a React/nextjs, developer who happens to write  Cairo and Rust,
 
 -react/nextjs for front end<br>
 -cairo and rust for smart contracts<br>  
